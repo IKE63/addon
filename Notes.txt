@@ -1,0 +1,23 @@
+Git - Locally created Folder
+
+Github - Storage Space Created in Cloud
+
+- Only a Local folder created in a system can be tracked
+- Folder in cloud is known as Global Repository
+- Folder in Local folder is known as Local Repository
+
+-:Important terms:
+git init
+git status
+git add <file name> - To track a file in the Staging area
+git add .
+git rm --cached <filename> - To remove the file that is currently being tracked
+git commit -m ""               - To push the file 
+git remote add origin <link copied from github home>
+git branch
+git push -u origin master  
+
+
+
+
+- Staging Area
