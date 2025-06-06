@@ -50,3 +50,9 @@ public class Recursion_ex {
 	}
 
 }
+
+
+Hand-on Exercises:
+Task 1: Implement array operations (insert, delete, update)
+Task 2: Find max/min in the array 
+Task 3:Recursive factorial and Fibonacci
